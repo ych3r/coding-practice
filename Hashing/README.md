@@ -4,3 +4,4 @@
 - Two Sum
 - First Letter to Appear Twice
 - Example 3
+- Check if the Sentence Is Pangram
