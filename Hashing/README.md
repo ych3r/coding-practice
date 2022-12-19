@@ -7,3 +7,5 @@
 - Check if the Sentence Is Pangram
 - Missing Number
 - Counting Elements
+
+## Counting
