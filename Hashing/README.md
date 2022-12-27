@@ -9,3 +9,6 @@
 - Counting Elements
 
 ## Counting
+
+> Tracking the frequency of things
+
