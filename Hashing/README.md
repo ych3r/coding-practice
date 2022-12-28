@@ -14,3 +14,4 @@
 
 - Counting example 1
 - Intersection of Multiple Arrays
+- Check if All Characters Have Equal Number of Occurrences
