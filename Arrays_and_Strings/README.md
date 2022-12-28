@@ -1,5 +1,19 @@
 # Arrays and strings
 
+## Two pointers
+- Reverse String
+- Squares of a Sorted Array
+
+## Sliding window
+- Maximum Average Subarray 1
+- Max Consecutive Ones III
+
+## Prefix sum
+- Running Sum of 1d Array
+- Minimum Value to Get Positive Step by Step Sum
+
+---
+
 ## Common tricks
 
 ### O(n) string building
