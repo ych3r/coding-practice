@@ -13,3 +13,4 @@
 > Tracking the frequency of things
 
 - Counting example 1
+- Intersection of Multiple Arrays
