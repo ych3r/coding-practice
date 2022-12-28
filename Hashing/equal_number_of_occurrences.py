@@ -16,4 +16,12 @@ def sol(s: str) -> bool:
     return len(set(frequencies)) == 1
 
 for i in range(len(s)):
-    assert sol(s[i]) == ans[i] 
+    assert sol(s[i]) == ans[i]
+
+from collections import Counter
+
+def sol1(s: str) -> bool:
+    return len(set(Counter(s).values())) == 1
+
+for i in range(len(s)):
+    assert sol1(s[i]) == ans[i]
