@@ -12,3 +12,4 @@
 
 > Tracking the frequency of things
 
+- Counting example 1
