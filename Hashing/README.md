@@ -19,3 +19,4 @@
 Count the number of subarrays with an "exact" constraint
 
 - Subarray Sum Equals K
+- Count Number of Nice Subarrays
