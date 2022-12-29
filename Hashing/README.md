@@ -15,8 +15,6 @@
 - Counting example 1
 - Intersection of Multiple Arrays
 - Check if All Characters Have Equal Number of Occurrences
-
-Count the number of subarrays with an "exact" constraint
-
 - Subarray Sum Equals K
 - Count Number of Nice Subarrays
+- Find Players With Zero or One Losses
