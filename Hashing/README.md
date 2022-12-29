@@ -18,3 +18,4 @@
 - Subarray Sum Equals K
 - Count Number of Nice Subarrays
 - Find Players With Zero or One Losses
+- Largest Unique Number
