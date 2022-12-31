@@ -20,3 +20,7 @@
 - Find Players With Zero or One Losses
 - Largest Unique Number
 - Maximum Number of Balloons
+
+## More hashing examples
+
+- Group Anagrams
