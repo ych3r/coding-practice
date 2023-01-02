@@ -24,3 +24,4 @@
 ## More hashing examples
 
 - Group Anagrams
+- Minimum Consecutive Cards to Pick Up
