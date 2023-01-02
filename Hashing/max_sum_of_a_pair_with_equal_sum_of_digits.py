@@ -4,7 +4,7 @@ Return -1 if there is no pair of numbers with the same digit sum.
 """
 
 nums = [17, 24, 35, 12, 33, 26]
-ans = 78 # [0, 2, 5]
+ans = 61 # [2, 5]
 
 from collections import defaultdict
 
@@ -23,8 +23,11 @@ def sol(nums: list) -> int:
         print(k, v)
     # end of test
     ans = -1
-    for value in groups.values():
-        ans = max(ans, sum(value))
+    for key in groups:
+            curr = groups[key]
+            if len(curr) > 1:
+                curr.sort(reverse=True)
+                ans = max(ans, curr[0] + curr[1])
     print(ans)
     return ans
 
