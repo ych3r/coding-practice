@@ -26,3 +26,4 @@
 - Group Anagrams
 - Minimum Consecutive Cards to Pick Up
 - Max Sum of a Pair With Equal Sum of Digits
+- Equal Row and Column Pairs
