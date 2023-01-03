@@ -29,3 +29,4 @@
 - Equal Row and Column Pairs
 - Ransom Note
 - Jewels and Stones
+- Longest Substring Without Repeating Characters
