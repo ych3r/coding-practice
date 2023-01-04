@@ -1,16 +1,16 @@
 # Arrays and strings
 
 ## Two pointers
-- Reverse String
-- Squares of a Sorted Array
+- [Reverse String](reverse_string.py)
+- [Squares of a Sorted Array](squares_of_a_sorted_array.py)
 
 ## Sliding window
-- Maximum Average Subarray 1
-- Max Consecutive Ones III
+- [Maximum Average Subarray 1](maximum_average_subarray1.py)
+- [Max Consecutive Ones III](max_consecutive_ones_III.py)
 
 ## Prefix sum
-- Running Sum of 1d Array
-- Minimum Value to Get Positive Step by Step Sum
+- [Running Sum of 1d Array](running_sum_of_1d_array.py)
+- [Minimum Value to Get Positive Step by Step Sum](minimum_value_to_get_positive_step_by_step_sum.py)
 
 ---
 

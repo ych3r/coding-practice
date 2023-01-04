@@ -181,4 +181,6 @@ def get_sum(head):
 
 ## Fast and slow pointers
 
+
+
 ## Reversing a linked list
