@@ -181,6 +181,8 @@ def get_sum(head):
 
 ## Fast and slow pointers
 
+Two pointers move at different "speeds" during iteration, begin iteration from different locations, or any other abstract difference.
 
+- [example1](example1.py)
 
 ## Reversing a linked list
