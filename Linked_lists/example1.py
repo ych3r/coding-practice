@@ -27,4 +27,13 @@ def sol(head: ListNode) -> int:
         head = head.next
     return arr[len(arr) // 2]
 
+def real_sol(head: ListNode) -> int:
+    slow = head
+    fast = head
+    while fast and fast.next:
+        fast = fast.next.next
+        slow = slow.next
+    return slow.val
+
 assert sol(head) == 3
+assert real_sol(head) == 3
