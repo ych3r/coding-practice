@@ -190,3 +190,18 @@ Two pointers move at different "speeds" during iteration, begin iteration from d
 - [Remove Duplicates from Sorted List](rm_dup_from_sorted_list.py)
 
 ## Reversing a linked list
+
+```py
+def reverse_list(head):
+    prev = None
+    curr = head
+    while curr:
+        next_node = curr.next # first, make sure we don't lose the next node
+        curr.next = prev      # reverse the direction of the pointer
+        prev = curr           # set the current node to prev for the next node
+        curr = next_node      # move on
+        
+    return prev
+```
+
+- [Swap Nodes in Pairs](swap_nodes_in_pairs.py)
