@@ -187,5 +187,6 @@ Two pointers move at different "speeds" during iteration, begin iteration from d
 - [Linked List Cycle](linked_list_cycle.py)
 - [example3](example3.py)
 - [Middle of the Linked List](middle_of_the_linked_list.py)
+- [Remove Duplicates from Sorted List](rm_dup_from_sorted_list.py)
 
 ## Reversing a linked list
