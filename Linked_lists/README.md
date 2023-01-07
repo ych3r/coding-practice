@@ -205,3 +205,4 @@ def reverse_list(head):
 ```
 
 - [Swap Nodes in Pairs](swap_nodes_in_pairs.py)
+- [Maximum Twin Sum of a Linked List](max_twin_sum_of_a_linked_list.py)
