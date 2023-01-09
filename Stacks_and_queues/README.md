@@ -20,6 +20,7 @@ else:
 - [Valid Parentheses](valid_parentheses.py)
 - [Remove All Adjacent Duplicates In String](rm_all_adjacent_dup_in_str.py)
 - [Backspace String Compare](backspace_str_compare.py)
+- [Simplify Path](simplify_path.py)
 
 ---
 
