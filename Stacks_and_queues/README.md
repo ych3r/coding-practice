@@ -46,3 +46,4 @@ if not queue:
 ```
 
 - [Number of Recent Calls](number_of_recent_calls.py)
+- [Moving Average from Data Stream](moving_average_from_data_stream.py)
