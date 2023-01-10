@@ -26,3 +26,23 @@ else:
 ---
 
 # Queues
+
+FIFO: First In First Out
+
+```py
+from collections import deque
+
+queue = deque()
+
+queue.append(1)
+queue.append(2)
+queue.append(3)
+
+while queue:
+    print(queue.popleft())
+    
+if not queue:
+    print("Queue is empty!")
+```
+
+- [Number of Recent Calls](number_of_recent_calls.py)
