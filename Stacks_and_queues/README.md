@@ -55,3 +55,4 @@ A monotonic stack or queue is one whose elements are always sorted.
 
 - [Daily Temperatures](daily_temp.py)
 - [Sliding Window Maximum](sliding_window_max.py)
+- [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](longest_cont_subarr_w_abs_diff_le_limit.py)
