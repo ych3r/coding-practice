@@ -50,3 +50,7 @@ if not queue:
 - [Moving Average from Data Stream](moving_average_from_data_stream.py)
 
 ## Monotonic
+
+A monotonic stack or queue is one whose elements are always sorted.
+
+- [Daily Temperatures](daily_temp.py)
