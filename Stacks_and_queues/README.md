@@ -54,3 +54,4 @@ if not queue:
 A monotonic stack or queue is one whose elements are always sorted.
 
 - [Daily Temperatures](daily_temp.py)
+- [Sliding Window Maximum](sliding_window_max.py)
